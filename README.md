@@ -33,6 +33,7 @@ native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, 
 ## Scope of this notebook
 
 In this notebook, various classification algorithms are fed the training data (part of entire set) and the scores are compared. 
+Just as a learning mechanism & to confirm how different algorithms work with adults dataset
 
 
 ```python
